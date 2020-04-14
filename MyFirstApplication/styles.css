@@ -1,5 +1,15 @@
-img:{
+div  {
     width: 200px;
     height: 100px;
-    
+ 
+}
+.header {
+   /* position: relative;
+    bottom: 0px;
+    margin: 0px;
+    padding: 0px;
+    margin-top:  -520px;
+    margin-left: 165px;
+    width:100%;*/
+    background-color: red;
 }
